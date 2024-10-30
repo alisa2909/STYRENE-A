@@ -1,0 +1,498 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 1280px;
+    display: block;
+    margin: 0 auto;
+    font-family: 'Styrene A', Arial, sans-serif;
+    position: relative;
+}
+
+.section-1 {
+    display: flex;
+    padding-top: 45px;
+    padding-left: 0;
+}
+.section-1 img {
+    width: 1280px;
+}
+.section-2{
+    position: relative;
+}
+.section-2{
+        position: absolute;
+        top: 847px;
+        left: 0;
+}
+.contain {
+    position: absolute;
+    top: -257px;
+    left: 754px;
+}
+.contain-2 p {
+    position: relative;
+}
+.contain-2 p {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+}
+.contain-2 {
+    position: absolute;
+    top: 444px;
+    left: 156px;
+    line-height: 31px;
+
+}
+.contain-3{
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.contain-3 {
+    position: absolute;
+    top: 444px;
+    left: 786px;
+    text-align: right;
+    line-height: 31px;
+}
+.section-3 {
+    position: absolute;
+    top: 1665px;
+    left: -2;
+}
+.section-4 {
+    position: absolute;
+    top: 1798px;
+    left: 0px;
+}
+.contain-4 {
+    font-family: "StyreneAWeb";
+    font-size: 50px;
+    font-weight: 700;
+}
+.contain-4 {
+    position: absolute;
+    top: 363px;
+    left: 901px; 
+}
+.contain-5 {
+    font-family: "StyreneAWeb";
+    font-size: 96px;
+    font-weight: 900;
+}
+.contain-5 {
+    position: absolute;
+    top: 140px;
+    left: 1002px; 
+}
+.contain-6 {
+    font-family: "StyreneAWeb";
+    font-size: 40px;
+    font-weight: 700;
+}
+.contain-6 {
+    position: absolute;
+    top: 178px;
+    left: 747px; 
+}
+
+.contain-7 {
+    font-family: "StyreneAWeb";
+    font-size: 45px;
+    font-weight: 700;
+}
+.contain-7 {
+    position: absolute;
+    top: 184px;
+    left: 256px; 
+}
+
+.contain-8 {
+    font-family: "StyreneAWeb";
+    font-size: 70px;
+    font-weight: 700;
+}
+.contain-8 {
+    position: absolute;
+    top: 321px;
+    left: 40px; 
+}
+
+.contain-9 {
+    font-family: "StyreneAWeb";
+    font-size: 50px;
+    font-weight: 700;
+}
+.contain-9 {
+    position: absolute;
+    top: 588px;
+    left: 60px; 
+}
+
+.contain-10 {
+    font-family: "StyreneAWeb";
+    font-size: 70px;
+    font-weight: 700;
+}
+.contain-10 {
+    position: absolute;
+    top: 408px;
+    left: 335px; 
+}
+
+.contain-11 {
+    font-family: "StyreneAWeb";
+    font-size: 128px;
+    font-weight: 700;
+}
+.contain-11 {
+    position: absolute;
+    top: 515px;
+    left: 785px; 
+}
+
+.contain-12 {
+    font-family: "StyreneAWeb";
+    font-size: 43px;
+    font-weight: 700;
+}
+.contain-12 {
+    position: absolute;
+    top: 527px;
+    left: 508px; 
+}
+
+.contain-13 {
+    font-family: "StyreneAWeb";
+    font-size: 200px;
+    font-weight: 700;
+    color: rgb(5, 255, 122);
+}
+.contain-13 {
+    position: absolute;
+    top: 183px;
+    left: 513px; 
+}
+
+.contain-14 {
+    font-family: "StyreneAWeb";
+    font-size: 200px;
+    font-weight: 700;
+    color: rgb(5, 255, 122);
+}
+.contain-14 {
+    position: absolute;
+    top: 326px;
+    left: 588px; 
+}
+.section-5 {
+    position: absolute;
+    top: 2660px;
+    left: 0px;
+}
+.section-6 {
+    position: absolute;
+    top: 2790px;
+    left: 0px;
+}
+.contain-15 {
+    font-family: "StyreneAWeb";
+    font-size: 34px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-15 {
+    position: absolute;
+    top: 378px;
+    left: 103px;
+}
+.contain-17 {
+    font-family: "StyreneAWeb";
+    font-size: 34px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-17 {
+    position: absolute;
+    top: 378px;
+    left: 1056px;
+}
+.section-7 {
+    position: absolute;
+    top: 3597px;
+    left: -9px;
+}
+.contain-18 {
+    font-family: "StyreneAWeb";
+    font-size: 64px;
+    font-weight: 500;
+    color: rgb(5, 255, 122);
+}
+.contain-18 {
+    position: absolute;
+    top: 512px;
+    left: 850px;
+    line-height: 60px;
+}
+
+.contain-19 {
+    font-family: "StyreneAWeb";
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+.contain-19 {
+    position: absolute;
+    top: 651px;
+    left: 847px;
+}
+.section-8 {
+    position: absolute;
+    top: 4436px;
+    left: 0px;
+}
+.contain-20 {
+    font-family: "StyreneAWeb";
+    font-size: 64px;
+    font-weight: 100;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+
+.contain-20 {
+    position: absolute;
+    top: -8px;
+    left: 20px;
+}
+.contain-21 {
+    font-family: "StyreneAWeb";
+    font-size: 55px;
+    font-weight: 100;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+.contain-21 {
+    position: absolute;
+    top: 59px;
+    left: 125px;
+}
+
+.section-9 {
+    position: absolute;
+    top: 4570px;
+    left: 5px;
+}
+
+.contain-22 {
+    font-family: "StyreneAWeb";
+    font-size: 80px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+.contain-22 {
+    position: absolute;
+    top: 65px;
+    left: 345px;
+}
+.section-10 {
+    position: absolute;
+    top: 5400px;
+    left: 5px;
+}
+
+.contain-23 {
+    font-family: "StyreneAWeb";
+    font-size: 100px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 140px;
+    color: rgb(255, 255, 255);
+    writing-mode: vertical-lr;
+}
+.contain-23 {
+    position: absolute;
+    top: 23px;
+    left: 13px;
+}
+
+.section-11 {
+    position: absolute;
+    top: 5456px;
+    left: 0px;
+}
+
+.contain-24 {
+    font-family: "StyreneAWeb";
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    color: rgb(0, 0, 0);
+}
+.contain-24 {
+    position: absolute;
+    top: 143px;
+    left: 495px;
+}
+
+.contain-25 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 31px;
+    color: rgb(0, 0, 0);
+}
+.contain-25 {
+    position: absolute;
+    top: 343px;
+    left: 495px;
+}
+
+.contain-26 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 31px;
+    color: rgb(0, 0, 0);
+}
+.contain-26 {
+    position: absolute;
+    top: 647px;
+    left: 73px;
+}
+.section-12 {
+    position: absolute;
+    top: 6340px;
+    left: 0px;
+}
+
+.section-13 {
+    position: absolute;
+    top: 6505px;
+    left: 4px;
+}
+
+.contain-27 {
+    font-family: "StyreneAWeb";
+    font-size: 105px;
+    font-weight: 500;
+    line-height: 134px;
+    writing-mode: horizontal-tb;
+    color: rgb(0, 0, 0);
+}
+.contain-27 {
+    position: absolute;
+    top: 35px;
+    left: 130px;
+}
+
+.section-14 {
+    position: absolute;
+    top: 7264px;
+    left: 5px;
+}
+
+.section-15 {
+    position: absolute;
+    top: 7393px;
+    left: -2px;
+}
+
+.section-16 {
+    position: absolute;
+    top: 8263px;
+    left: 0px;
+}
+
+.contain-28 {
+    font-family: "StyreneAWeb";
+    font-size: 80px;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+.contain-28 {
+    position: absolute;
+    top: 287px;
+    left: 847px;
+}
+
+.contain-29 {
+    font-family: "StyreneAWeb";
+    font-size: 55px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-29 {
+    position: absolute;
+    top: 310px;
+    left: 966px;
+}
+
+.contain-30 {
+    font-family: "StyreneAWeb";
+    font-size: 55px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-30 {
+    position: absolute;
+    top: 369px;
+    left: 994px;
+}
+
+.section-17 {
+    position: absolute;
+    top: 10307px;
+    left: 55px;
+}
+
+.contain-31 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-31 {
+    position: absolute;
+    top: 19px;
+    left: 22px;
+}
+
+.contain-32 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-32 {
+    position: absolute;
+    top: 19px;
+    left: 435px;
+}
+
+.contain-33 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-33 {
+    position: absolute;
+    top: 19px;
+    left: 760px;
+}
+
+.contain-34 {
+    font-family: "StyreneAWeb";
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+.contain-34 {
+    position: absolute;
+    top: 19px;
+    left: 1088px;
+}

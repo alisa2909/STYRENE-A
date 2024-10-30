@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Black.woff") format("woff");
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-BlackItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Bold.woff") format("woff");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-BoldItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Medium.woff") format("woff");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-MediumItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Italic.woff") format("woff");
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Light.woff") format("woff");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-LightItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-Thin.woff") format("woff");
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "StyreneAWeb";
+    src: url("../fonts/StyreneAWeb-ThinItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: 100;
+}
+
